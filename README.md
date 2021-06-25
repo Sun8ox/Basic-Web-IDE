@@ -21,3 +21,5 @@ __Project is under development!__
 
 __When beta ends?__
 - Expected release of FULL version: 30.6. 2021 but you can download BETA release now.
+
+## :)
