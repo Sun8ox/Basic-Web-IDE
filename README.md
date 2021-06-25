@@ -6,10 +6,13 @@ __Project is under development!__
 - Webserver (Apache recommended)
 
 ## How to download/setup?
-- Download "Web-IDE v beta x.zip" and unpack it in your webserver folder.
-- Go to yourweb.com/Web-IDE/
+- Download "Web-IDE v beta x.zip" and unpack it in the folder of your webserver
+- Go to www.yourweb.com/Web-IDE/ and login
 - Default username & password is "admin"
-- And you can use it!
+
+## How to use it?
+- Click to "Open file" and create a file (like web.html)
+- Click to "edit" and you can edit selected file!
 
 # The Web-IDE / files / folder must have 777 rights to work properly!
 
