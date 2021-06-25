@@ -16,6 +16,7 @@ __Project is under development!__
 - All files are saved in "files" folder.
 
 # The Web-IDE/files/ folder must have 777 rights to work properly!
+- Linux: cd /path/to/webserver/Web-IDE/ && chmod +777 files/
 
 __When beta ends?__
 - Expected release of FULL version: 30.6. 2021 but you can download BETA release now.
