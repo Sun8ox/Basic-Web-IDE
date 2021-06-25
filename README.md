@@ -13,6 +13,7 @@ __Project is under development!__
 ## How to use it?
 - Click to "Open file" and create a file (like web.html)
 - Click to "edit" and you can edit selected file!
+- All files are saved in "files" folder.
 
 ## The Web-IDE / files / folder must have 777 rights to work properly!
 
