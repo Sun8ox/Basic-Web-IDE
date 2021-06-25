@@ -9,6 +9,7 @@ __Project is under development!__
 - Download "Web-IDE v beta x.zip" and unpack it in the folder of your webserver
 - Go to www.yourweb.com/Web-IDE/ and login
 - Default username & password is "admin"
+- Password you can change in auth.php folder
 
 ## How to use it?
 - Click to "Open file" and create a file (like web.html)
