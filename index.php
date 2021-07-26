@@ -1,2 +1,5 @@
 <?php
-Header("Location: Web-IDE/");
+header("Location: Web-IDE/");
+
+?>
+Remove me :) 
