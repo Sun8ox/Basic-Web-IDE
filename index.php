@@ -1,1 +1,2 @@
-Remove me! Remove me! Remove me! Remove me! Remove me! Remove me! Remove me! Remove me! Remove me! Remove me! Remove me! Remove me! 
+<?php
+Header("Location: Web-IDE/");
